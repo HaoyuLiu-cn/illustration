@@ -1,0 +1,19 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 C06B-3347
+D:.
+├─INRIAPerson
+│  ├─Test
+│  │  ├─annotations
+│  │  ├─neg
+│  │  └─pos
+│  └─Train
+│      ├─annotations
+│      ├─neg
+│      └─pos
+├─Logistic_Result
+│  ├─neg
+│  └─pos
+├─SVM_Result
+│  ├─neg
+│  └─pos
+└─__pycache__
